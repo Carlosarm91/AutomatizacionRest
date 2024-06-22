@@ -1,0 +1,7 @@
+src/main/java/interactions/PostRest.java,1689269313912552000,1353,FORMATTED
+src/main/java/interactions/DeleteRest.java,1689270281220515000,835,FORMATTED
+src/main/java/questions/CodigoEstado.java,1689270281292387000,662,FORMATTED
+src/main/java/interactions/GetRest.java,1689269313838989000,827,FORMATTED
+src/test/java/Runners/PetStoreRestRunner.java,1689270620529700000,405,FORMATTED
+src/main/java/interactions/PutRest.java,1689269313935696000,1348,FORMATTED
+src/test/java/StepDefinitions/PetStoreRestStepDefinitions.java,1689270619358787000,1538,INVALID

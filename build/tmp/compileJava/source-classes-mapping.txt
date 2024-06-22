@@ -1,0 +1,10 @@
+interactions/PutRest.java
+ interactions.PutRest
+interactions/PostRest.java
+ interactions.PostRest
+interactions/GetRest.java
+ interactions.GetRest
+questions/CodigoEstado.java
+ questions.CodigoEstado
+interactions/DeleteRest.java
+ interactions.DeleteRest
